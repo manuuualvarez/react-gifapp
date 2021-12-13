@@ -1,0 +1,93 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Unit Test on <GifGrid /> Should show items when the server response 1`] = `
+<Fragment>
+  <h3>
+     
+    Miami
+     
+  </h3>
+  <div
+    className="card-grid"
+  >
+    <GifGridItem
+      id="01"
+      key="01"
+      title="Title 1"
+      url="https://media1.giphy.com/media/l0HlW9jd0y8Vy9qkU/giphy.gif"
+    />
+    <GifGridItem
+      id="02"
+      key="02"
+      title="Title 2"
+      url="https://media1.giphy.com/media/l0HlW9jd0y8Vy9qkU/giphy.gif"
+    />
+    <GifGridItem
+      id="03"
+      key="03"
+      title="Title 3"
+      url="https://media1.giphy.com/media/l0HlW9jd0y8Vy9qkU/giphy.gif"
+    />
+    <GifGridItem
+      id="04"
+      key="04"
+      title="Title 4"
+      url="https://media1.giphy.com/media/l0HlW9jd0y8Vy9qkU/giphy.gif"
+    />
+    <GifGridItem
+      id="05"
+      key="05"
+      title="Title 5"
+      url="https://media1.giphy.com/media/l0HlW9jd0y8Vy9qkU/giphy.gif"
+    />
+    <GifGridItem
+      id="06"
+      key="06"
+      title="Title 6"
+      url="https://media1.giphy.com/media/l0HlW9jd0y8Vy9qkU/giphy.gif"
+    />
+    <GifGridItem
+      id="07"
+      key="07"
+      title="Title 7"
+      url="https://media1.giphy.com/media/l0HlW9jd0y8Vy9qkU/giphy.gif"
+    />
+    <GifGridItem
+      id="08"
+      key="08"
+      title="Title 8"
+      url="https://media1.giphy.com/media/l0HlW9jd0y8Vy9qkU/giphy.gif"
+    />
+    <GifGridItem
+      id="09"
+      key="09"
+      title="Title 9"
+      url="https://media1.giphy.com/media/l0HlW9jd0y8Vy9qkU/giphy.gif"
+    />
+    <GifGridItem
+      id="10"
+      key="10"
+      title="Title 10"
+      url="https://media1.giphy.com/media/l0HlW9jd0y8Vy9qkU/giphy.gif"
+    />
+  </div>
+</Fragment>
+`;
+
+exports[`Unit Test on <GifGrid /> Show component successfully without request 1`] = `
+<Fragment>
+  <h3>
+     
+    Miami
+     
+  </h3>
+  <p
+    className="animate__animated animate__flash"
+  >
+    Loading...
+  </p>
+  <div
+    className="card-grid"
+  />
+</Fragment>
+`;

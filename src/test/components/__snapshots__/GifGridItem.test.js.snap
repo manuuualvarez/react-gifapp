@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Unit test on <GifGridItem /> Show  component succesfully 1`] = `
+<div
+  className="card animate__animated animate__fadeOut"
+>
+  <img
+    alt="Google"
+    src="http://google.com"
+  />
+  <p>
+     
+    Google
+  </p>
+</div>
+`;
